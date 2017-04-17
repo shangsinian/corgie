@@ -1,0 +1,22 @@
+{
+  "name": "corgie",
+  "version": "1.0.0",
+  "description": "Tauri Corgie",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solacat/corgie.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "TauriTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solacat/corgie/issues"
+  },
+  "homepage": "https://github.com/solacat/corgie#readme"
+}
