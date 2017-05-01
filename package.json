@@ -1,6 +1,6 @@
 {
   "name": "corgie",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "Tauri Corgie",
   "main": "lib/index.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "assert": "^1.4.1",
     "is-type-of": "^1.0.0",
     "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
     "koa-mount": "^3.0.0",
     "koa-router": "^7.1.1",
     "lodash": "^4.17.4",
