@@ -1,6 +1,6 @@
 {
   "name": "corgie",
-  "version": "1.0.12",
+  "version": "1.0.19",
   "description": "Tauri Corgie",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "koa-router": "^7.1.1",
     "koa-views": "^6.0.2",
     "lodash": "^4.17.4",
-    "node-homedir": "^1.0.0"
+    "node-homedir": "^1.0.0",
+    "promise-mysql": "^3.0.1"
   }
 }
